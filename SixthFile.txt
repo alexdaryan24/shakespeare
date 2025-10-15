@@ -1,0 +1,7 @@
+###
+## test-git
+## This is text file number 6
+###
+
+As you like it.
+William Shakespeare
